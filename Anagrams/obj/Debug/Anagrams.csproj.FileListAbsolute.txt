@@ -1,0 +1,7 @@
+C:\Users\Jaspon\source\repos\Exercises\Anagrams\bin\Debug\Anagrams.exe.config
+C:\Users\Jaspon\source\repos\Exercises\Anagrams\bin\Debug\Anagrams.exe
+C:\Users\Jaspon\source\repos\Exercises\Anagrams\bin\Debug\Anagrams.pdb
+C:\Users\Jaspon\source\repos\Exercises\Anagrams\obj\Debug\Anagrams.csproj.CoreCompileInputs.cache
+C:\Users\Jaspon\source\repos\Exercises\Anagrams\obj\Debug\Anagrams.exe
+C:\Users\Jaspon\source\repos\Exercises\Anagrams\obj\Debug\Anagrams.pdb
+C:\Users\Jaspon\source\repos\Exercises\Anagrams\obj\Debug\Anagrams.csprojAssemblyReference.cache
